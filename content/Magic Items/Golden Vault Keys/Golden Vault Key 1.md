@@ -1,0 +1,1 @@
+[![](https://5e.tools/img/adventure/KftGV/005-01-002.ch1-key.webp)

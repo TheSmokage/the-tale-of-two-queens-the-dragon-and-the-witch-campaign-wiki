@@ -1,0 +1,2 @@
+Archaelogical site where [[Dr. Dannell Cassee]] found the first [[Eldritch Horror Egg]] and where the part encountered an [[Eldritch Horror]].
+From the murky water the party obtained 2 vials of [[Fey Liquid|water with metallic flakes]].

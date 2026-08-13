@@ -1,0 +1,1 @@
+Thrown on [[Langdedrosa Cyanwrath]] which caused him to transofrm.
