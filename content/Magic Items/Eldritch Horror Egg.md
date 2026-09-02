@@ -1,4 +1,4 @@
-[![The Murkmire Stone](https://5e.tools/img/adventure/KftGV/011-01-005.the-murkmire-stone.webp)
+![The Murkmire Stone](https://5e.tools/img/adventure/KftGV/011-01-005.the-murkmire-stone.webp)
 ### Murkmire Stone — Pulse & Effects
 
 **Pulse**

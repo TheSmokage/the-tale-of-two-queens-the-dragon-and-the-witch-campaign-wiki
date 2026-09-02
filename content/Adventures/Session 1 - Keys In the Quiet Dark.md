@@ -1,3 +1,4 @@
+![[Varkenbluff Museum.webp]]
 ## Basic Information
 - Module: Keys from the Golden Vault
 - Level: 1 → 2
@@ -9,7 +10,7 @@
 
 After each party member caught the attention of a [[The Golden Vault|Golden Vault]] operative through separate good deeds, they were invited to participate in a heist as a trial of their abilities. Each received a mysterious key and a set of coordinates directing them to the [[Sage's Quill Tavern]], where they met [[Dr. Dannell Cassee]].
 
-Dr. Cassee explained that an [[Eldritch Horror Egg]] had been recovered during an archaeological excavation and was being displayed at the [[Varkenbluff Museum of Natural History]]. With the egg set to hatch at midnight, potentially unleashing an [[Eldritch Horror]], the party was tasked with stealing it before disaster struck. The party successfully completed the heist, returned the egg to [[Dr. Dannell Cassee|Dr. Cassee]], advanced to Level 2, and retired to the [[Sage's Quill Tavern]] to await their next assignment.
+[[Dr. Dannell Cassee]] explained that an [[Eldritch Horror Egg]] had been recovered during an archaeological excavation and was being displayed at the [[Varkenbluff Museum of Natural History]]. With the egg set to hatch at midnight, potentially unleashing an [[Eldritch Horror]], the party was tasked with stealing it before disaster struck. The party successfully completed the heist, returned the egg to [[Dr. Dannell Cassee|Dr. Cassee]], advanced to Level 2, and retired to the [[Sage's Quill Tavern]] to await their next assignment.
 
 ---
 
@@ -17,8 +18,8 @@ Dr. Cassee explained that an [[Eldritch Horror Egg]] had been recovered during a
 
 - Meet with [[Dr. Dannell Cassee]].
 - Steal the [[Eldritch Horror Egg]].
-- Prevent the egg from hatching.
-- Return the egg to [[Dr. Dannell Cassee]].
+	- Prevent the [[Eldritch Horror Egg|egg]] from hatching.
+	- Return the egg to [[Dr. Dannell Cassee]].
 
 ---
 

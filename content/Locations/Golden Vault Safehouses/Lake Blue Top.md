@@ -16,6 +16,8 @@ The safehouse also contains a wealth of information that can be discovered by ex
 - [[Mt. Stonewick]]
 - [[Silver Dragon Mountain]]
 
-The library also contains information revealing that the broaches bear the symbol of [[Tiamat]], the godlike five-headed dragon who attempted to conquer the world centuries ago. The symbol's presence suggests that [[Tiamat]] has once again attracted the worship of a [[Cult of Tiamat|cult]], providing an early indication of the larger threat surrounding the campaign.
+The library also contains information revealing that the broaches bear the symbol of [[Tiamat]], the godlike five-headed dragon who attempted to conquer the world centuries ago. The symbol's presence suggests that [[Tiamat]] has once again attracted the worship of a [[The Cult of Tiamat|cult]], providing an early indication of the larger threat surrounding the campaign.
 
 The safehouse is also a place where the party can resupply and prepare for future missions. Alice discovered high-quality rations suitable for a noble and stocked the party's Bag of Holding with them for their travels.
+
+Safehouse has a fence that buys items 50-80% on the dollar

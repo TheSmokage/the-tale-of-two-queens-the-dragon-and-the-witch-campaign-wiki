@@ -1,0 +1,1 @@
+![[Madryck Roslof.webp]]

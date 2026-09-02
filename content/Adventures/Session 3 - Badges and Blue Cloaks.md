@@ -6,7 +6,7 @@
 ---
 ## Summary
 
-After surviving the encounter with the [[Eldritch Horror]]], the party continued toward [[Lake Blue Top]]. Along the road, they encountered three ogres wearing strange blue robes and escorting a wagon loaded with seemingly stolen goods. [[Alice]] and [[Theonil]] scouted ahead, allowing the party to ambush the bandits before they could attack. Among the spoils were rations, coin, blue cloaks, and a sealed shipment of 5,000 unusual gold pieces marked for the [[Afterlife Casino]]. The party also recovered dragon-shaped brooches depicting five multicolored dragons—an early sign that their recent adventures may be connected to something much larger.
+After surviving the encounter with the [[Eldritch Horror]], the party continued toward [[Lake Blue Top]]. Along the road, they encountered three ogres wearing strange blue robes and escorting a wagon loaded with seemingly stolen goods. [[Alice]] and [[Theonil]] scouted ahead, allowing the party to ambush the bandits before they could attack. Among the spoils were rations, coin, blue cloaks, and a sealed shipment of 5,000 unusual gold pieces marked for the [[Afterlife Casino]]. The party also recovered dragon-shaped brooches depicting five multicolored dragons—an early sign that their recent adventures may be connected to something much larger.
 
 Upon reaching [[Lake Blue Top]], the party was welcomed by [[Dr. Dannell Cassee]], who finally revealed the true nature of the organization they had been working with. The safehouse was far more impressive than its humble exterior suggested: beneath the dilapidated farmhouse lay an enormous marble complex containing libraries, barracks, an initiation chamber, a sealed golden vault, and a massive [[World Map]] displaying locations of interest throughout the region.
 
@@ -14,9 +14,9 @@ While exploring the safehouse, the party began uncovering clues that would shape
 
 The party then underwent its formal initiation into [[The Golden Vault]]. Before being accepted as operatives, each member swore the organization's sacred [[The Golden Vault#Golden Vault Oath|oath]], pledging themselves to the Vault's ideals of protecting the innocent, preserving balance, turning darkness toward the light, safeguarding what must be protected, and doing good regardless of the cost. 
 
-Having officially become Golden Vault operatives, the party received their **golden operative badges**, granting them limited magical communication with their handler, shared access to [[Detect Magic]], access to Golden Vault safehouses, and a means of being guided toward their assignments.
+Having officially become Golden Vault operatives, the party received their [[Golden Vault Badge]]s, granting them limited magical communication with their handler, shared access to detect magic, access to Golden Vault safehouses, and a means of being guided toward their assignments.
 
-Their initiation was immediately followed by their first official assignment. [[Dr. Dannell Cassee]] revealed that [[Quentin Togglepocket]], the gnome owner of the traveling [[Afterlife Casino]], had apparently taken the life savings of [[Verity Kye]], a Golden Vault ally living in [[Greenest]]. Even more concerning, Togglepocket appeared to have connections to a growing [[Cult of Tiamat]] and was currently preparing to host a [[Three-Dragon Ante]] tournament in Greenest.
+Their initiation was immediately followed by their first official assignment. [[Dr. Dannell Cassee]] revealed that [[Quentin Togglepocket]], the gnome owner of the traveling [[Afterlife Casino]], had apparently taken the life savings of [[Verity Kye]], a Golden Vault ally living in [[Greenest]]. Even more concerning, Togglepocket appeared to have connections to a growing [[The Cult of Tiamat]] and was currently preparing to host a Three-Dragon Ante tournament in [[Greenest]].
 
 The party was ordered to travel to [[Greenest]], meet with [[Verity Kye]], investigate [[Quentin Togglepocket]] and the [[Afterlife Casino]], and recover [[Verity Kye|Verity]]'s stolen savings if possible. Before they departed, [[Dr. Dannell Cassee|Dr. Dannell]] also asked them to assist an old warlock friend, [[Madryck Roslof]], somewhere along the road.
 
@@ -26,173 +26,75 @@ With their new badges in hand and their first official mission ahead of them, th
 
 ## Objectives
 
-- Reach Golden Vault Safehouse #1.
-    
-- Complete the party's Golden Vault initiation.
-    
-- Learn more about the blue-robed bandits and their dragon insignia.
-    
-- Meet Verity Kye in Greenest.
-    
-- Investigate Quentin Togglepocket and the Afterlife Casino.
-    
-- Recover Verity Kye's life savings.
-    
-- Assist Madryck while traveling toward Greenest.
-    
+- Reach [[The Golden Vault|Golden Vault]] Safehouse, [[Lake Blue Top]].    
+- Complete the party's [[The Golden Vault|Golden Vault]] initiation.    
+- Learn more about the blue-robed bandits and their dragon insignia.    
+- Meet [[Verity Kye]] in [[Greenest]].
+- Investigate [[Quentin Togglepocket]] and the [[Afterlife Casino]].    
+- Recover [[Verity Kye]]'s life savings.    
+- Assist [[Madryck Roslof|Madryck]] while traveling toward [[Greenest]].    
 
 ---
 
 ## Important NPCs
 
-- Dr. Dannell Cassee
-    
-- Verity Kye
-    
-- Quentin Togglepocket
-    
-- Madryck
-    
+- [[Dr. Dannell Cassee]]    
+- [[Verity Kye]]    
+- [[Quentin Togglepocket]]   
+- [[Madryck Roslof]]
 
 ---
 
 ## Important Locations
 
-- Golden Vault Safehouse #1
-    
-- Lake Bluetop
-    
-- Greenest
-    
-- Afterlife Casino
-    
-- The Twins
-    
-    - Stonwick Mountain
-        
-    - Mountain of Change
-        
+-[[Lake Blue Top]]    
+-[[Greenest]]    
+- [[Afterlife Casino]]    
+- [[The Twins]]    
+    - [[Mt. Stonewick]]        
+    - [[Silver Dragon Mountain]]        
 
 ---
 
 ## Magic Items
 
-- Golden Vault Operative Badge
-    
-- Golden Vault Key
-    
-- Bag of Holding
-    
+- [[Golden Vault Badge]]
+- [[Golden Vault Key 2]]
 
 ---
 
 ## Story Threads Created
 
-- The Golden Vault
-    
-- Golden Vault Safehouse #1
-    
-- Afterlife Casino
-    
-- Quentin Togglepocket
-    
-- Verity Kye
-    
-- Tiamat
-    
-- Cult of Tiamat
-    
-- Madryck
-    
-- Three-Dragon Ante
-    
-- The Twins
-    
-
----
-
-## Clues & Discoveries
-
-- The blue-robed bandits were carrying **5,000 unusual gold pieces** sealed for delivery to the Afterlife Casino.
-    
-- The coins bear a **skull insignia** potentially associated with the casino or Quentin Togglepocket.
-    
-- The bandits wore **blue robes and cloaks**.
-    
-- Their brooches depicted **five multicolored dragons**.
-    
-- The party learned that the dragon insignia represents Tiamat, an ancient godlike dragon associated with a cult.
-    
-- Quentin Togglepocket has ties to the Cult of Tiamat and operates the mobile Afterlife Casino.
-    
-- The party learned that the casino is currently traveling toward Greenest.
-    
-- Quentin Togglepocket is hosting a **Three-Dragon Ante** tournament in Greenest.
-    
-- Golden Vault Safehouse #1 contains a large map identifying numerous locations of interest and other safehouses.
-    
-- Jila detected that the sealed golden vault contains more than wealth, including creatures and individuals.
-    
-- Thwump and Jila identified two prominent mountains known as The Twins.
-    
-
----
-
-## Golden Vault Operative Badge
-
-Each party member received a golden circular operative badge granting:
-
-- **Sending:** 1/day communication between the party and their handler.
-    
-- **Detect Magic:** 1/long rest, shared across the group.
-    
-- **Safehouse Access:** Allows entry into Golden Vault safehouses.
-    
-- **Objective Guidance:** Provides guidance toward relevant objectives using a key and compass.
-    
-
----
-
----
-
+- Travel to [[Greenest]] to meet with [[Verity Kye]].
+- Investigate the [[Afterlife Casino]] & [[Quentin Togglepocket]].
+- Visit [[Madryck Roslof]] and see what is troubling him for [[Dr. Dannell Cassee]].
+- ---
 ## Consequences
 
-- The party formally became operatives of the Golden Vault.
-    
-- The party gained access to Golden Vault Safehouse #1 and other safehouses.
-    
-- The party received magical operative badges.
-    
-- The party discovered evidence potentially connecting the Afterlife Casino to the Cult of Tiamat.
-    
-- The party obtained 5,000 unusual gold pieces intended for the Afterlife Casino.
-    
-- The party learned that Quentin Togglepocket is currently operating in or near Greenest.
-    
-- The party received their next Golden Vault assignment: The Stygian Gambit.
-    
-- The party was tasked with assisting Madryck while traveling toward Greenest.
-    
-- The party departed Safehouse #1 and continued toward Greenest.
+- The party formally became operatives of [[The Golden Vault]].    
+- The party gained access to [[Lake Blue Top]] and other safehouses.    
+- The party received [[Golden Vault Badge]]s.    
+- The party discovered evidence potentially connecting the Afterlife Casino to [[The Cult of Tiamat]].
+- The party obtained 5,000 unusual gold pieces intended for the [[Afterlife Casino]].    
+- The party learned that [[Quentin Togglepocket]] is currently operating in or near [[Greenest]].    
+- The party received their next [[The Golden Vault|Golden Vault]] assignment: The Stygian Gambit.    
+- The party was tasked with assisting [[Madryck Roslof|Madryck]] while traveling toward [[Greenest]].    
+- The party departed [[Lake Blue Top]] and continued toward [[Greenest]].
     
 
 ---
 
 ## Leads Into
 
-➡ The Stygian Gambit
-
-**Reason:**
-
-Dr. Dannell Cassee assigned the party to travel to Greenest, meet with Verity Kye, investigate Quentin Togglepocket and the Afterlife Casino, and recover Verity's stolen life savings.
-
-The discovery of the blue-robed bandits, the 5,000 unusual gold pieces, and the dragon-shaped insignia also provides an early connection between the Golden Vault's activities and the emerging Cult of Tiamat.
+- Warlock's Quest: [[Madryck Roslof]]
+- [[Greenest]] In Flames
+- The Stygian Gambit
 
 ---
 
-## Previous Adventure
+## Previous Session
 
-➡ Murkmire Malevolence
+[[Session 2 – Whispers in the Murkmire]]
 
 ---
 
