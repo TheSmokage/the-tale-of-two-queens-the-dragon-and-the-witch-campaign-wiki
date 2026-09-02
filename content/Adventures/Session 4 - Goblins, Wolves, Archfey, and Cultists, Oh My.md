@@ -17,109 +17,56 @@ Continuing along the road, the party encountered [[Madryck Roslof]] at his magic
 
 The description triggered strange memories in every member of the party. Each recalled encountering a woman matching [[Zybilna]]'s description during childhood, though under very different circumstances. [[Theonil|Theo]] remembered [[Zybilna]] visiting the Winter Court and saving him from larger fey who were bullying him. [[Alice]] remembered sneaking into [[The Witchlight Carnival]] as a child, where [[Zybilna]] gave her a cupcake that made her feel special. [[Thwump]] remembered that his uncle, [[Spork the Orc]], and a female magic user had helped deliver him. [[Jila]] remembered a woman matching [[Zybilna]]'s description visiting her while she was sick and making her feel better.
 
-[[Madryck Roslof|Madryck]] explained that the party could potentially reach [[Prismeer]] through [[The Witchlight Carnival]], which would be traveling near [[Greenest]] in approximately 7–14 days. The carnival's Shadar-Kai owners, Mr. Witch and Mr. Light, possess some means of traveling between the Material Plane and the Feywild. Madryck suggested that the party could earn their favor or potentially steal something important from each of them to gain passage.
+[[Madryck Roslof|Madryck]] explained that the party could potentially reach [[Prismeer]] through [[The Witchlight Carnival]], which would be traveling near [[Greenest]] in approximately 7–14 days. The carnival's Shadar-Kai owners, [[Mr. Witch]] and [[Mr. Light]], possess some means of traveling between the Material Plane and the Feywild. Madryck suggested that the party could earn their favor or potentially steal something important from each of them to gain passage.
 
-Madryck gave each party member a Witchlight Carnival Entry Ticket and warned them that time passes differently in the Feywild. He also explained that Zybilna had created the Witchlight Carnival as a means of reaching mortals and was effectively a fairy godmother to many of them. Madryck promised a substantial reward if the party succeeded, including magical and valuable adventuring equipment.
+[[Madryck Roslof|Madryck]] gave each party member a [[The Witchlight Carnival|Witchlight Carnival]] Entry Ticket and warned them that time passes differently in the Feywild. He also explained that [[Zybilna]] had created [[The Witchlight Carnival]] as a means of reaching mortals and was effectively a fairy godmother to many of them. Madryck promised a substantial reward if the party succeeded, including magical and valuable adventuring equipment.
 
-Before leaving, the party rested at the pumpkin patch and harvested several magically infused pumpkins. Theo and Alice decided to hollow one out to make pumpkin pie, while Alice carved Zybilna's likeness into its face. To their surprise, the pumpkin animated into a small, wobbly, slightly cursed pumpkin creature. The party named him **Zybilkin**.
+Before leaving, the party rested at the pumpkin patch and harvested several magically infused pumpkins. [[Theonil|Theo]] and [[Alice]] decided to hollow one out to make pumpkin pie, while [[Alice]] carved [[Zybilna]]'s likeness into its face. To their surprise, the pumpkin animated into a small, wobbly, slightly cursed pumpkin creature. The party named him [[Zybilkin]].
 
-The party ultimately decided to continue toward Greenest and pursue their Golden Vault assignment before dealing with the Witchlight Carnival and the mysteries surrounding Zybilna and Prismeer.
+The party ultimately decided to continue toward [[Greenest]] and pursue their [[The Golden Vault|Golden Vault]] assignment before dealing with [[The Witchlight Carnival]] and the mysteries surrounding [[Zybilna]] and [[Prismeer]].
 
-On the road, the party encountered four kobold spellcasters wearing the blue robes of the Cult of Tiamat. The kobolds were performing a strange summoning ritual in a pool of water. Alice and Theo approached the ritual more casually, while Jila and Thwump attempted to convince the kobolds that they were fellow cultists. The kobolds used a call-and-response test to determine that Jila and Thwump were not actually members of the cult and immediately attacked.
+On the road, the party encountered four kobold spellcasters wearing the blue robes of [[The Cult of Tiamat]]. The kobolds were performing a strange summoning ritual in a pool of water. [[Alice]] and  [[Theonil|Theo]] approached the ritual more casually, while [[Jila]] and [[Thwump]] attempted to convince the kobolds that they were fellow cultists. The kobolds used a call-and-response test to determine that [[Jila]] and [[Thwump]] were not actually members of the cult and immediately attacked.
 
-The resulting battle was extremely close. Theo was knocked unconscious multiple times, including after suffering two critical hits, ultimately accumulating four points of exhaustion. Through a combination of healing, fear, and more than a little Thwumping, the party managed to keep Theo alive and defeat the kobolds.
+The resulting battle was extremely close. [[Theonil|Theo]] was knocked unconscious multiple times, including after suffering two critical hits, ultimately accumulating four points of exhaustion. Through a combination of healing, fear, and more than a little [[Thwump]]ing, the party managed to keep  [[Theonil|Theo]] alive and defeat the kobolds.
 
-After the battle, the party discovered and took possession of another Eldritch Horror Egg, though they had no idea when it might hatch. Theo, understandably, concluded that the cultists had been exceptionally rude and now intends to murder them all at the earliest opportunity.
+After the battle, the party discovered and took possession of another [[Eldritch Horror Egg]], though they had no idea when it might hatch. [[Theonil|Theo]], understandably, concluded that the cultists had been exceptionally rude and now intends to murder them all at the earliest opportunity.
 
 ---
 
 ## Objectives
 
-- Continue traveling toward Greenest.
-    
-- Capture and begin taming the two Dire Wolves.
-    
-- Meet Madryck Roslof.
-    
-- Learn what happened to Zybilna.
-    
-- Eventually reach the Feywild realm of Prismeer.
-    
-- Locate the Witchlight Carnival.
-    
-- Investigate the disappearance of Zybilna.
-    
-- Continue pursuing the Golden Vault assignment.
-    
-- Investigate the Cult of Tiamat.
-    
-- Survive the kobold cultists.
-    
-- Secure the newly discovered Eldritch Horror Egg.
-    
+- Continue traveling toward Greenest to meet with Verity Kye   
+- Meet Madryck Roslof and learn what happened to Zybilna. 
 
 ---
 
 ## Important NPCs
 
-- Madryck Roslof- Zybilna
-    
-- Mr. Witch
-    
-- Mr. Light
-    
-- Spork the Orc
-    
-- **Zybilkin**
-    
+- [[Madryck Roslof]]
+- [[Zybilna]]  
+- [[Mr. Witch]]   
+- [[Mr. Light]]    
+- [[Spork the Orc]]    
+- [[Zybilkin ]]   
 
 ---
 
 ## Important Locations
 
-- Greenest
-    
-- Madryck's Pumpkin Patch
-    
-- Witchlight Carnival
-    
-- Prismeer
-    
-- Palace of Heart's Desire
-    
-- Winter Court
-    
+- [[Greenest]]    
+- [[Madryck's Pumpkin Patch]]   
+- [[The Witchlight Carnival]]  
+- [[Prismeer]]
+- [[The Palace of Heart's Desire]]    
+- [[Winter Court]]
 
 ---
 
 ## Magic Items
 
-- Instrument of Scribing
-    
-- Witchlight Carnival Entry Tickets
-    
-- Eldritch Horror Egg
-    
+- [[Instrument of Scribing]]    
 
 ---
-
-## Items
-
-- Leather Armor x3
-    
-- Scimitar x3
-    
-- Shortbow x3
-    
-- Gold
-    
-- Goblin meat
-    
-- Magical pumpkins
-    
-
----
-
 ## Companions / Creatures
 
 - **Thump** — captured dire wolf

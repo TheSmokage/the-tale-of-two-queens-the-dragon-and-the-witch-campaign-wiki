@@ -8,7 +8,7 @@
 
 The morning after recovering the [[Eldritch Horror Egg]], each party member awoke to discover a new [[Golden Vault Key 2|Golden Vault key fragment]] along with directions to [[Lake Blue Top]]. [[Dr. Dannell Cassee]] briefed them on their next assignment. Reports had surfaced of a second [[Eldritch Horror]] emerging within the [[Murkmire Swamp]]. She offered the party 20 gp upfront and 40 gp upon successful completion, though [[Alice]]'s habit of "collecting souvenirs" by snipping a button from [[Dr. Dannell Cassee|Dr. Cassee]]'s blouse reduced the promised reward to 35 gp.
 
-The party traveled to a nearby archaeological excavation within the [[Murkmire Swamp]], arriving just as the [[Eldritch Horror]] attacked the dig site. Rushing to the archaeologists' aid, they defeated the creature before it could claim more victims and assumed possession of a second [[Eldritch Horror Egg]]. During the battle, [[Cheshire]] recovered a [[Fey Liquid|vial of swamp water]] containing strange metallic flakes. After the horror was slain, [[Thwump]] intimidated one of the archaeologists into surrendering another vial of the [[Fey Liquid|unusual water]] and collected a vial of the creature's acidic fluid. Meanwhile, [[Jila]] discovered a cleric cantrip scroll among the site, and as the archaeologists evacuated downriver, [[Alice]] quietly appropriated one of their nets.
+The party traveled to a nearby archaeological excavation within the [[Murkmire Swamp]], arriving just as the [[Eldritch Horror]] attacked the dig site. Rushing to the archaeologists' aid, they defeated the creature before it could claim more victims . During the battle, [[Cheshire]] recovered a [[Fey Liquid|vial of swamp water]] containing strange metallic flakes. After the horror was slain, [[Thwump]] intimidated one of the archaeologists into surrendering another vial of the [[Fey Liquid|unusual water]] and collected a vial of the creature's acidic fluid. Meanwhile, [[Jila]] discovered a cleric cantrip scroll among the site, and as the archaeologists evacuated downriver, [[Alice]] quietly appropriated one of their nets.
 
 ---
 
@@ -49,7 +49,6 @@ The party traveled to a nearby archaeological excavation within the [[Murkmire S
 
 ## Story Threads Created
 
-- Second [[Eldritch Horror Egg]]
 - [[Fey Liquid|Metallic Flakes]] in water
 
 ---
