@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: The Tale of Two Queens The Dragon and The Witch -- Campaign Wiki
+  pageTitle: The Tale of Two Queens The Dragon and The Witch
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
