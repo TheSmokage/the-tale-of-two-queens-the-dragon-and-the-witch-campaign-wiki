@@ -35,8 +35,8 @@ After the battle, the party discovered and took possession of another [[Eldritch
 
 ## Objectives
 
-- Continue traveling toward Greenest to meet with Verity Kye   
-- Meet Madryck Roslof and learn what happened to Zybilna. 
+- Continue traveling toward [[Greenest]] to meet with [[Verity Kye]].
+- Meet [[Madryck Roslof]] and learn what happened to [[Zybilna]]. 
 
 ---
 
@@ -69,64 +69,30 @@ After the battle, the party discovered and took possession of another [[Eldritch
 ---
 ## Companions / Creatures
 
-- **Thump** — captured dire wolf
-    
-- **Sigmund** — captured dire wolf
-    
-- **Zybilkin** — animated, slightly cursed pumpkin creature
-    
+- [[Thump]] — captured dire wolf    
+- [[Sigmund]] — captured dire wolf    
+- [[Zybilkin]] — animated, slightly cursed pumpkin creature    
 
 ---
 
 ## Story Threads Created
 
-- Zybilna has mysteriously vanished from Prismeer.
-    
-- Every member of the party has a seemingly unrelated childhood connection to Zybilna.
-    
-- Madryck Roslof has a deeper history with the Golden Vault than initially understood.
-    
-- The Witchlight Carnival may provide a means of entering the Feywild.
-    
-- Mr. Witch and Mr. Light each possess something that could potentially be used to gain passage to Prismeer.
-    
-- The party now possesses two captured Dire Wolves that they hope to tame and use as mounts.
-    
-- **Zybilkin** has been created through unknown magical properties of Madryck's pumpkins.
-    
-- The Cult of Tiamat is performing mysterious summoning rituals.
-    
-- The party has acquired another Eldritch Horror Egg.
-    
-- **Theo** has developed a personal vendetta against the Cult of Tiamat.
-    
+- Locate [[The Witchlight Carnival]] and its owners, [[Mr. Witch]] and [[Mr. Light]] and secure entry into [[Prismeer]].
+- Every member of the party has a seemingly unrelated childhood connection to [[Zybilna]].    
+- [[Madryck Roslof]] has a deeper history with [[The Golden Vault]] than initially understood.  
+- The party has acquired another [[Eldritch Horror Egg]].    
 
 ---
 
 ## Consequences
 
-- The party captured two dire wolves rather than killing them.
-    
-- **Thump** and **Sigmund** have begun the process of being tamed as potential mounts.
-    
+- The party captured two dire wolves and rather than killing them have begun the process of being tamed as potential mounts.
 - The party learned that Madryck Roslof is connected to both Dr. Dannell Cassee and the Golden Vault.
-    
 - The party learned that Zybilna has disappeared from Prismeer.
-    
-- The party discovered that every member has a mysterious personal connection to Zybilna.
-    
-- The party received Witchlight Carnival Entry Tickets and learned that the carnival may provide access to the Feywild.
-    
-- **Zybilkin** was accidentally created and now accompanies the party.
-    
-- The party defeated four kobold members of the Cult of Tiamat.
-    
-- **Theo** suffered severe injuries during the battle and accumulated four points of exhaustion.
-    
-- The party acquired another Eldritch Horror Egg, creating a potentially dangerous new problem.
-    
-- **Theo** now has a strong personal desire to eliminate the Cult of Tiamat.
-    
+- The party discovered that every member has a mysterious personal connection to [[Zybilna]].
+- The party received [[The Witchlight Carnival]] Entry Tickets and learned that the carnival may provide access to the Feywild.
+- [[Zybilkin]] was accidentally created and now accompanies the party.
+- The party acquired another [[Eldritch Horror Egg]], creating a potentially dangerous new problem.
 
 ---
 
@@ -135,51 +101,3 @@ After the battle, the party discovered and took possession of another [[Eldritch
 [[Session 3 - Badges and Blue Cloaks]]
 
 ---
-
-## Timeline
-
-1. The party continues traveling toward Greenest.
-    
-2. The party encounters goblins riding Dire Wolves.
-    
-3. The goblins are defeated and two dire wolves, **Thump** and **Sigmund**, are captured.
-    
-4. The party discovers that the wolves were being controlled through cruel treatment and prods.
-    
-5. Jila discovers an Instrument of Scribing.
-    
-6. Thwump and Jila begin attempting to tame the wolves using goblin meat harvested by Theo.
-    
-7. The party encounters Madryck Roslof at his magical Pumpkin Patch.
-    
-8. Madryck reveals his connection to the Golden Vault and Dr. Dannell Cassee.
-    
-9. Madryck explains that his patron, Zybilna, has vanished.
-    
-10. The party recalls their individual childhood encounters with Zybilna.
-    
-11. Madryck explains that Prismeer can potentially be reached through the Witchlight Carnival.
-    
-12. The party receives Witchlight Carnival Entry Tickets.
-    
-13. Madryck promises valuable rewards if the party discovers what happened to Zybilna.
-    
-14. The party harvests magical pumpkins from Madryck's pumpkin patch.
-    
-15. Alice carves Zybilna's likeness into a pumpkin, accidentally creating **Zybilkin**.
-    
-16. The party leaves Madryck's Pumpkin Patch and continues toward Greenest.
-    
-17. The party encounters four kobold spellcasters wearing the blue robes of the Cult of Tiamat.
-    
-18. The party attempts to deceive the kobolds into believing they are fellow cultists.
-    
-19. The kobolds expose the deception and attack.
-    
-20. **Theo** is knocked unconscious multiple times and suffers two critical hits, accumulating four points of exhaustion.
-    
-21. The party defeats the kobold cultists.
-    
-22. The party discovers and takes possession of another Eldritch Horror Egg.
-    
-23. **Theo** develops a personal vendetta against the Cult of Tiamat.

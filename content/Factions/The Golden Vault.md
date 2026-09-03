@@ -1,7 +1,8 @@
 
-The golden vault is a secret organization associated with [[Metallic Dragons]].
+The golden vault is a secret organization.
 Missions are given by secret key and key goes to music box.
-# ##Initiation Requirements
+## Initiation Requirements
+
 1. Trial Heist
 2. Each Crew Must have a handler
 3. Has tiers
